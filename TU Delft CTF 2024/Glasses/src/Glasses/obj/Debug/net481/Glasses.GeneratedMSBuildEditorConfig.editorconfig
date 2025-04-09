@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Glasses
+build_property.ProjectDir = /home/ksaweryr/ctf/ctf-challenges/TU Delft CTF 2024/Glasses/src/Glasses/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
