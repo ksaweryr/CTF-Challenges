@@ -1,0 +1,7 @@
+{
+    "name": "Baby Heap",
+    "identifier": "babyheap",
+    "category": ["pwn", "baby"],
+    "difficulty": "easy",
+    "version": 1
+}

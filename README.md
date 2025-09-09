@@ -2,6 +2,12 @@
 
 This repository contains sources and brief descriptions of the solutions for (most of) the CTF challenges I've created for various competitions. Difficulties (if provided) are subjective and relative to overall competition difficulty (e.g. challenges for beginner-focused TU Delft CTF 2024 have slightly higher difficulty ratings than challenges from ImaginaryCTF 2024).
 
+## justCTF 2025
+| Name | Category | Tags |
+| -- | -- | -- |
+| [Baby Audio](./justCTF%202025/misc_baby_audio/) | misc | audio steganography, FFT |
+| [Baby Heap](./justCTF%202025/pwn_baby_heap/) | pwn | UAF, tcache poisoning |
+
 ## x3CTF 2025
 
 | Name | Category | Tags |

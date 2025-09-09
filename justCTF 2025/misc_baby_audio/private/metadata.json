@@ -1,0 +1,10 @@
+{
+    "identifier": "babyaudio",
+    "name": "Baby Audio",
+    "category": ["misc", "baby"],
+    "difficulty": "easy",
+    "flag": [
+        "justCTF{The-track-name-is-Coldness-and-the-artist-is-The-Wanderer}"
+    ],
+    "version": 1
+}
